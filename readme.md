@@ -3,7 +3,10 @@
 
 是个间歇性注意力集中，线程一多会导致宕机的人，人话和计算机语言都说的不怎么好。同时喜欢折腾一些数码和网络层面的东西。
 
-目前看得懂的语言有Html和Css
+目前看得懂的语言有
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+和
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 
 最近在学习Github的使用和*尝试学习*JavaScript  
 同时也在学习视频剪辑思路和特效制作
