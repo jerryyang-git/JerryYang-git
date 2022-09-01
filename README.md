@@ -10,7 +10,7 @@
 和
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 
-最近在学习Github的使用和~尝试学习JavaScript~  
+最近在学习Github的使用和~尝试学习VUE~  
 同时对影视制作流程与特效制作也感兴趣，也希望能找到与之有关的工作
 
 编程为兴趣爱好，主业是平面设计和图形处理（也许）  
