@@ -3,7 +3,7 @@
 
 人话和计算机语言都说的不怎么好。同时喜欢折腾一些数码和网络层面的东西。
 
-喜欢摄影、古典乐、二次元
+剪辑、设计、摄影
 
 目前看得懂的语言有
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
