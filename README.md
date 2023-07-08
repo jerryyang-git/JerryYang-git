@@ -11,4 +11,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 
 最近在学习 Github 的使用和~尝试学习 VUE~
-同时对影视制作也感兴趣，同时希望能找到与之有关的工作
+同时对影视制作也感兴趣
